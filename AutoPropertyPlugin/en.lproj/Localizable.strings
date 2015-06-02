@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  AutoPropertyPlugin
+
+  Created by taoxian on 15/6/2.
+  Copyright (c) 2015年 taoxian. All rights reserved.
+*/
+
+
+"AutoPropertyPlugin" = "Auto Property Plugin";
+
+"SelectedFiles" = "Generate Selected Files";
+"ActiveFile" = "Generate Active File";
+"SelectedLines" = "Generate Selected Lines";
+"ViewLog" = "View Log";
+
+
+
